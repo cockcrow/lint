@@ -1,0 +1,11 @@
+# OS generated files
+.DS_Store
+
+# Byte-compiled
+*.py[cod]
+
+# IDE configurations
+*~
+*#
+.idea/
+.vscode/
