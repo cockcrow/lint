@@ -1,0 +1,9 @@
+# Markdownlint Configuration File
+
+# Global options
+verbose false
+show_kramdown_warnings true
+git_recurse true
+
+# Use customized cirosantilli style
+style "#{File.dirname(__FILE__)}/cirosantilli.rb"
