@@ -1,0 +1,13 @@
+#!/bin/sh
+# Simple shell script to run tests
+
+printf 'Lint markdown files ..' | cowsay
+mdl -c lint/markdownlint/.mdlrc .
+
+printf 'Lint shell scripts ..' | cowsay
+shellcheck run_tests
+
+printf 'Lint yaml files ..' | cowsay
+yamllint -c lint/yamllint/.yamllint .
+
+# TODO: other test wrappers
