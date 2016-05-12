@@ -1,0 +1,17 @@
+---
+braces: {key1: 4, key2: 8}
+brackets: [1, 2, abc]
+colons: "value"
+commas: [10, 20, 30, {x: 1, y: 2}]
+
+# Nice block comment
+comments:
+  # Indent with content
+  - item: "value"  # Inline comment
+note:
+  YAML is a human friendly data serialization
+  standard for all programming languages.
+
+sentence: This is a very very very very very long sentence but not exceed 120.
+# http://localhost/very/very/very/very/very/very/very/very/very/very/very/very/very/very/very/very/very/very/very/very/very/long/url
+...
