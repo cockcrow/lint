@@ -4,10 +4,10 @@ Learning to config various linters.
 
 ## Linters
 
-- [markdownlint](https://github.com/mivok/markdownlint)
-- [shellcheck](https://github.com/koalaman/shellcheck)
-- [pylint](https://github.com/pycqa/pylint)
-- [yamllint](https://github.com/adrienverge/yamllint)
-- [jsonlint](https://github.com/zaach/jsonlint)
-- [eslint](https://github.com/eslint/eslint)
 - [csslint](https://github.com/CSSLint/csslint)
+- [eslint](https://github.com/eslint/eslint)
+- [jsonlint](https://github.com/zaach/jsonlint)
+- [markdownlint](https://github.com/mivok/markdownlint)
+- [pylint](https://github.com/pycqa/pylint)
+- [shellcheck](https://github.com/koalaman/shellcheck)
+- [yamllint](https://github.com/adrienverge/yamllint)
